@@ -2,7 +2,7 @@ import csv
 from collections import Counter
 from pathlib import Path
 
-LOG_FILE = Path(__file__).parent.parent / "sample-data" / "login_attempts.csv"
+LOG_FILE = Path(__file__).resolve().parent.parent / "sample-data" / "login_attempts.csv"
 FAILURE_THRESHOLD = 3
 
 
