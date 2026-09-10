@@ -1,0 +1,13 @@
+timestamp,user,source_ip,application,status,error_code,interactive
+2026-09-10 08:14:02,emma.lee@northstar.example,198.51.100.23,OfficeHome,failed,50126,true
+2026-09-10 08:14:11,emma.lee@northstar.example,198.51.100.23,OfficeHome,failed,50126,true
+2026-09-10 08:14:20,emma.lee@northstar.example,198.51.100.23,OfficeHome,failed,50126,true
+2026-09-10 08:14:32,emma.lee@northstar.example,198.51.100.23,OfficeHome,failed,50126,true
+2026-09-10 08:14:47,emma.lee@northstar.example,198.51.100.23,OfficeHome,failed,50126,true
+2026-09-10 08:15:03,emma.lee@northstar.example,198.51.100.23,OfficeHome,failed,50126,true
+2026-09-10 08:15:19,emma.lee@northstar.example,198.51.100.23,OfficeHome,success,0,true
+2026-09-10 08:16:02,emma.lee@northstar.example,198.51.100.23,Outlook Web,success,0,true
+2026-09-10 08:17:41,emma.lee@northstar.example,198.51.100.23,My Profile,success,0,true
+2026-09-10 08:22:10,daniel.ross@northstar.example,10.10.20.15,OfficeHome,success,0,true
+2026-09-10 08:31:44,sophia.kim@northstar.example,10.10.20.21,Outlook Web,success,0,true
+2026-09-10 08:42:05,emma.lee@northstar.example,10.10.20.33,OfficeHome,success,0,true
